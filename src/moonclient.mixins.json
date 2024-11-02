@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.moonclient.pro.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "moonclient-refmap.json"
+}
